@@ -59,7 +59,7 @@ nav { transition: 0.8s; }
 /*.blog_:nth-child(even) { display: box; }*/
 /*.sosialmed { float: center;}
 */
-.parallax-container { height: 667px;margin-top: -64px; }
+.parallax-container { height: 675px;margin-top: -64px; }
 .parallax-container .section { 
 	height: 100%;
 	background-color: rgba(0,0,0,0.3);
